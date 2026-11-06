@@ -248,5 +248,5 @@ EventEast uses **OpenStreetMap** (free, no billing key required):
 
 ## 👨‍💻 Developer
 
-**Abdul Wasay Ali**
-GitHub: [@AbdulWasayAli](https://github.com/AbdulWasayAli)
+**Mudabbir Ali**
+GitHub: [@Mudabbir Ali: https://github.com/mudabbira101-lab)
